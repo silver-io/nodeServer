@@ -1,0 +1,24 @@
+{
+  "name": "nodeServer",
+  "version": "1.0.0",
+  "description": "small server",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silver-io/nodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silver-io/nodeServer/issues"
+  },
+  "homepage": "https://github.com/silver-io/nodeServer"
+}
